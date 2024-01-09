@@ -1,24 +1,3 @@
-# README
+#Friends List App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is a Ruby on Rails practice app that functions as an editable friends list, allowing you to sign in and keep track of your friends' contact information. You can add new friends, edit existing ones, and delete friends from your unique list linked to your unique email and password.
